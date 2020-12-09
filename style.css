@@ -1,0 +1,72 @@
+body{
+    background-image: url(images1/city.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.s1{
+    background-color: rgb(255, 255, 255);
+    margin-left:5px;
+    margin-right:5px;
+}
+h1{
+    color: rgb(29, 17, 17);
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Inconsolata', monospace;
+    letter-spacing: 5px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.row{
+    text-align: center;
+    margin: 30px 70px;
+}
+.icon{
+    font-size: 50px;
+}
+h2{
+    color: rgb(28, 28, 73);
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 27px;
+    word-spacing: 5px;
+    font-family: 'Lobster', cursive;
+    
+
+}
+p{
+    color: rgb(25, 92, 114);
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.row{
+    padding: 15px;
+    display: inline-block;
+    width: 267px;
+}
+
+
+.btn{
+    background-color: rgb(28, 28, 73);
+    color: white;
+    border-radius: 100px;
+    padding-left:40px;
+    padding-right:40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color:  rgb(28, 28, 73); 
+    
+}
+.button{
+    margin-left: 570px;
+}
+.btn:hover{
+    background-color: transparent;
+    border: 2px solid  rgb(28, 28, 73);
+    color: rgb(25, 92, 114)
+}
